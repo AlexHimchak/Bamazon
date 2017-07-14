@@ -13,4 +13,14 @@ If the ordered quantity exceeds the stock quantity we send an error message.
 
 ![alt tag](http://i.imgur.com/pUuyadB.png)
 
+## Results
+
+Before Pic of our table in mySql
+
+![alt tag](http://i.imgur.com/RfJ6Rrt.png)
+
+Updated table
+
+![alt tag](http://i.imgur.com/vxX7uHQ.png)
+
 BAM
